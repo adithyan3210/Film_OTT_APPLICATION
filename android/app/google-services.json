@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974815603162",
+    "project_id": "flixnetsign",
+    "storage_bucket": "flixnetsign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974815603162:android:a283b18d8f77a616cd78e3",
+        "android_client_info": {
+          "package_name": "com.example.flixnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974815603162-7juro4pkup79ksldm8dk9mgvkm27nsbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flixnet",
+            "certificate_hash": "a717124e3343a8ca2758296e8e2817481d5472bf"
+          }
+        },
+        {
+          "client_id": "974815603162-17dsshb44qmtn2o32vgkapnn9betrc12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYc-E3BWwNCHDKlj2unGrU95tEoFDAUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974815603162-17dsshb44qmtn2o32vgkapnn9betrc12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
